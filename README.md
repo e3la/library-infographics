@@ -5,6 +5,8 @@ and I am releasing these things as CC0 (public domain) objects folks are allowed
 
 **[➡️ Open the Resources Gallery](https://e3la.github.io/library-instruction-resources/)**
 
+If you want the html to make your own resource gallery - a [template html file is right here in this github](https://github.com/e3la/library-instruction-resources/blob/main/gallery4you.html).
+
 Other githubs of mine that might be interesting:
 
 [Libguide ready AI Acknowledgement Generator](https://github.com/e3la/ai-acknowledgement/)

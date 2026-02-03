@@ -16,3 +16,6 @@ Other githubs of mine that might be interesting:
 [Bookmarklet for getting calendar blocks for days a library is closed](https://github.com/e3la/libcal-bookmarklet)
 
 [Vibe coded a tool for taking an instagram archive zip and transforming it into bepress ingestible files with metadata in colab](https://github.com/e3la/i2dc)
+
+
+https://github.com/e3la/library-instruction-resources/blob/main/svg/123.svg
